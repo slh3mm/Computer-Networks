@@ -1,13 +1,13 @@
 # Computer-Networks (UVA ECE 4457)
 
 ## CHAPTER 1: INTRODUCTION
-Circuit Switching
-Quantitative Comparison of Packet Switching and Circuit Switching
-One-hop Transmission Delay 
-Queuing Delay
-End-to-End Delay
-End-to-End Throughput
-The IP Stack and Protocol Layering
+* Circuit Switching
+* Quantitative Comparison of Packet Switching and Circuit Switching
+* One-hop Transmission Delay 
+* Queuing Delay
+* End-to-End Delay
+* End-to-End Throughput
+* The IP Stack and Protocol Layering
 
 ## CHAPTER 2: APPLICATION LAYER
 DNS - Basics
