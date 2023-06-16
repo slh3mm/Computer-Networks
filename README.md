@@ -2,54 +2,53 @@
 
 ## CHAPTER 1: INTRODUCTION
 Circuit Switching
-Quantitative Comparison of Packet Switching and Circuit Switching (similar to Chapter 1, P8, P9)
-Car - Caravan Analogy
-One-hop Transmission Delay (similar to example on pg. 37)
+Quantitative Comparison of Packet Switching and Circuit Switching
+One-hop Transmission Delay 
 Queuing Delay
-End-to-End Delay (similar to Chapter 1, P10)
-End-to-End Throughput (similar to Chapter 1, P20, and Figure 1.20)
+End-to-End Delay
+End-to-End Throughput
 The IP Stack and Protocol Layering
 
 ## CHAPTER 2: APPLICATION LAYER
 DNS - Basics
 DNS - Iterative vs Recursive Query
-DNS and HTTP delays (similar to Chapter 2, P7,P8)
-HTTP GET (similar to Chapter 2, P4)
-HTTP RESPONSE (similar to Chapter 2, P5)
+DNS and HTTP delays
+HTTP GET
+HTTP RESPONSE
 Browser Caching
 Electronic Mail and SMTP
-A comparison of client-server and P2P file distribution delays (similar to Chapter 2, P22)
+A comparison of client-server and P2P file distribution delays
 
 ## CHAPTER 3: TRANSPORT LAYER
-Internet checksum (similar to Chapter 3, P3 and P4)
+Internet checksum
 Reliable data transfer: rdt22
 Reliable data transfer: rdt30
-TCP sequence and ACK numbers, with segment loss (similar to Chapter 3, P27)
-TCP RTT and timeout (similar to Chapter 3, P31)
-TCP congestion window evolution (similar to Chapter 3, P40)
-TCP retransmissions (reliable data transmission with ACK loss)
+TCP sequence and ACK numbers, with segment loss
+TCP RTT and timeout
+TCP congestion window evolution
+TCP retransmissions
 UDP Mux and Demux
 TCP Mux and Demux
 
 ## CHAPTER 4: NETWORK LAYER: DATA PLANE
-Longest Prefix Matching (similar to Chapter 4, P8)
-Packet Scheduling (similar to Chapter 4, P6-7)
-Subnet Addressing (similar to Chapter 4, P15)
-Network Address Translation (similar to Chapter 4, P18)
+Longest Prefix Matching
+Packet Scheduling
+Subnet Addressing
+Network Address Translation
 IPv6 Tunneling and Encapsulation
-Openflow Flow Tables (similar to Chapter 4, P20-22)
+Openflow Flow Tables
 
 ## CHAPTER 5: NETWORK LAYER: CONTROL PLANE
-Dijkstra's Link State Algorithm (similar to Chapter 5, P3-5)
+Dijkstra's Link State Algorithm
 Dijkstra's Link State Algorithm - Advanced
-Bellman Ford Distance Vector algorithm (similar to Chapter 5, P8)
+Bellman Ford Distance Vector algorithm
 
 ## CHAPTER 6: LINK LAYER
-Error Detection and Correction: Two Dimensional Parity (similar to Chapter 6, P1-P2)
-Error Detection and Correction: Cyclic Redundancy Check (similar to Chapter 6, P5-P6)
-Random Access Protocols: Aloha (similar to Chapter 6, P8-P9)
+Error Detection and Correction: Two Dimensional Parity
+Error Detection and Correction: Cyclic Redundancy Check
+Random Access Protocols: Aloha
 Random Access Protocols: Collisions
-Link Layer (and network layer) addressing, forwarding (similar to Chapter 6, P15)
+Link Layer (and network layer) addressing, forwarding
 Learning Switches - Basic
 Learning Switches - Advanced
 
@@ -59,4 +58,4 @@ CDMA - Advanced
 4G Wireless Tunneling
 4G Wireless Handover
 
-This repository contains the solutions to the 6 homeworks throughout the semester.
+This repository contains the solutions to the 6 homeworks throughout the semester. The contents of this readme file are from Kurose’s and Ross’ Book: Computer Networks A Top-Down Approach.
